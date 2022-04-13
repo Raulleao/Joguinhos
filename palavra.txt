@@ -2,3 +2,5 @@ banana
 maça
 morango
 melancia
+uva
+manga
